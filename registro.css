@@ -1,0 +1,25 @@
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: 2px solid black;
+    background-image: url('images2/registroo.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.cuestionario {
+    background: linear-gradient(270deg,red, blue, blue, red);
+    padding: 20px;
+    border-radius: 10px;
+}
+.texto1{
+    color: azure;
+}
+.border-black {
+    border: 2px solid black;
+}
+
+
+
